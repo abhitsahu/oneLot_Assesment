@@ -1,0 +1,220 @@
+{
+  "hero": {
+    "title": "Grow your dealership with working capital loans and digital tools from OneLot",
+    "description": "We enable dealers to buy more cars through our working capital loan solutions and sell cars more efficiently through our Dealership Management System with its inventory management, marketing solutions and market insights",
+    "buttonText": "Inquire now",
+    "regulatedBy": "Regulated by",
+    "heroImage": {
+      "src": "/assets/home/images/hero.webp",
+      "alt": "OneLot Application Interface",
+      "width": 1200,
+      "height": 800
+    },
+    "secImage": {
+      "src": "/assets/home/images/sec-large.webp",
+      "alt": "Securities and Exchange Commission Philippines",
+      "width": 170,
+      "height": 100
+    }
+  },
+  "featuresSection": {
+    "title": "Everything you need to grow your business",
+    "description": "OneLot is your trusted lending and financing partner, exclusively tailored for used car dealership. We also offer digital tools for streamlined operations and growth of your dealership.",
+    "buttonText": "Learn more",
+    "features": [
+      {
+        "id": "dealer-loans",
+        "title": "Dealer Loans",
+        "subtitle": "Accelerate your growth with tailored loan solutions",
+        "description": "Get comprehensive car financing solutions, unlock the potential of your dealership and take it to new heights."
+      },
+      {
+        "id": "dealership-management",
+        "title": "Dealership Management System",
+        "subtitle": "Enhance Efficiency and Sales with free digital tools for car dealerships",
+        "description": "OneLot offers a suite of powerful digital tools designed to optimize your operations."
+      }
+    ]
+  },
+  "productShowcaseSection": {
+    "carFinancing": {
+      "title": "Car Financing",
+      "subtitle": "Dealer Loans",
+      "description": "OneLot's working capital loans allows car dealer to buy more cars and capitalize on car purchase opportunities you would otherwise have missed. We transfer the money to your account within 6 hours.",
+      "features": [
+        "Interest as low as 1.5% per month with daily calculation of interest",
+        "Financing up to 70% of the vehicle purchase",
+        "Financing period up to 90 days with flexible repayment schedule at any point"
+      ],
+      "conclusion": "Use OneLot's financing solution today, grow the number of cars in your lot and increase your profits.",
+      "buttonText": "View Loans",
+      "image": {
+        "src": "/assets/home/images/car-financing-pic.webp",
+        "alt": "Car Loan Application Interface"
+      }
+    },
+    "dealershipManagement": {
+      "title": "Dealership Management System",
+      "description": "OneLot's digital platform has been built with the single goal to help used car dealers to operate their business more efficiently.",
+      "features": [
+        {
+          "title": "Inventory Management:",
+          "description": "Track all details about your cars and sales in one place - from car details to buyers. All you need to now in one place"
+        },
+        {
+          "title": "Marketing Tools:",
+          "description": "Promote your cars across all the different platforms. Write a marketing text and upload on Facebook Marketplace, Groups, Pages and Instagram with a single click of a button"
+        },
+        {
+          "title": "Market Insights (Coming Soon):",
+          "description": "Get insights on prices and volumes for all cars in the market. We provide you all the date by combining data from various sources with a single click of a button."
+        }
+      ],
+      "conclusion": "Sign-up OneLot's dealer platform today, and your cars easier.",
+      "buttonText": "Explore now",
+      "image": {
+        "src": "/assets/home/images/dealership-management-system-pic.webp",
+        "alt": "Vehicles Management Interface"
+      }
+    }
+  },
+  "whyOneLotSection": {
+    "title": "Why OneLot?",
+    "features": [
+      {
+        "id": "trust",
+        "title": "Trust",
+        "description": "Regulated by Securities and Exchange Commission (SEC) Philippines"
+      },
+      {
+        "id": "high-amount",
+        "title": "High Amount",
+        "description": "Get the highest loan amounts compared to other banks and lenders"
+      },
+      {
+        "id": "fast",
+        "title": "Fast",
+        "description": "Get the money within a few hours on the same day"
+      },
+      {
+        "id": "flexible",
+        "title": "Flexible",
+        "description": "Loans are tailored to your needs"
+      },
+      {
+        "id": "easy",
+        "title": "Easy",
+        "description": "Run through an easy process and get your first loans within days"
+      }
+    ]
+  },
+  "testimonialsSection": {
+    "title": "Testimonials",
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Mark Vergel de Dios",
+        "title": "Owner, MVD Auto Works",
+        "quote": "The service of OneLot is top notch, they act fast and can provide dealers with the funds they need, when they need it.",
+        "image": {
+          "src": "/assets/home/images/avatar.png",
+          "alt": "Mark Vergel de Dios profile"
+        }
+      }
+    ]
+  },
+  "stayConnectedSection": {
+    "title": "Stay connected",
+    "description": "Follow OneLot on our Facebook and Instagram page and stay up to date with our most recent offers, updates and new product features",
+    "socialMediaPosts": [
+      {
+        "id": 1,
+        "description": "Power and style with the sleek lines of the Toyota Fortuner",
+        "image": {
+          "src": "/assets/home/images/Toyota_Fortuner.jpeg",
+          "alt": "Toyota Fortuner"
+        },
+        "likes": 177,
+        "comments": 42,
+        "shares": 5,
+        "date": "October 20"
+      },
+      {
+        "id": 2,
+        "description": "Luxury meets performance in the exquisite Lexus UX.",
+        "image": {
+          "src": "/assets/home/images/Lexus_UX.jpeg",
+          "alt": "Lexus UX"
+        },
+        "likes": 177,
+        "comments": 42,
+        "shares": 5,
+        "date": "October 20"
+      },
+      {
+        "id": 3,
+        "description": "Efficiency never looked so good - introducing the fuel-efficient.",
+        "image": {
+          "src": "/assets/home/images/download (1).jpeg",
+          "alt": "Fuel efficient car"
+        },
+        "likes": 177,
+        "comments": 42,
+        "shares": 5,
+        "date": "October 20"
+      },
+      {
+        "id": 4,
+        "description": "Adventure awaits in the rugged yet refined Honda Civic",
+        "image": {
+          "src": "/assets/home/images/Lexus_UX.jpeg",
+          "alt": "Honda Civic"
+        },
+        "likes": 177,
+        "comments": 42,
+        "shares": 5,
+        "date": "October 20"
+      },
+      {
+        "id": 5,
+        "description": "Rev up your dreams with our stunning lineup of high-performance #CarEnthusiast ",
+        "image": {
+          "src": "/assets/home/images/Tata.jpeg",
+          "alt": "Tata car"
+        },
+        "likes": 177,
+        "comments": 42,
+        "shares": 5,
+        "date": "October 20"
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently asked questions",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "How do I apply for a loan?",
+        "answer": "OneLot onboarding is easy and straightforward onboarding process. We only require a few documents and after a few days you can get your first loan. Check here for the exact requirements See full requirements.",
+        "hasLink": true,
+        "linkText": "See full requirements.",
+        "linkUrl": "#"
+      },
+      {
+        "id": 2,
+        "question": "What are the interest rates offered?",
+        "answer": "OneLot offers competitive interest rates starting from 1.5% per month with daily calculation. Our rates are among the most competitive in the market, designed to help your dealership grow profitably."
+      },
+      {
+        "id": 3,
+        "question": "What kind of vehicles can I upload?",
+        "answer": "You can upload any type of vehicle including cars, SUVs, trucks, motorcycles, and commercial vehicles. Our platform supports all vehicle categories and helps you manage your entire inventory efficiently."
+      },
+      {
+        "id": 4,
+        "question": "How can I keep track of potential buyers?",
+        "answer": "Our platform provides comprehensive buyer tracking tools including lead management, communication history, and follow-up reminders. You can monitor buyer interactions and manage your sales pipeline effectively."
+      }
+    ]
+  }
+}
