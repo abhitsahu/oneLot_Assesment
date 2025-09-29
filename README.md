@@ -1,6 +1,4 @@
-# OneLot - Dealership Management System
-
-A modern, responsive Next.js application for dealership management with car financing solutions. Built with Next.js 15, TypeScript, and Tailwind CSS.
+# OneLot
 
 ## 🚀 Features
 
