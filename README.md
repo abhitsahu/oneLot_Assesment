@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone <repository-url>
-cd onelot-assesment-project
+cd onelot-assesment
 ```
 
 ### 2. Install Dependencies
@@ -89,25 +89,7 @@ src/
 └── styles/               # Additional styles
 ```
 
-## 🎨 Design System
 
-### Color Palette
-
-- **Primary**: `#44008a` - Main brand color
-- **Secondary**: `#805AD5` - Purple accent
-- **Accent**: `#3600D1` - Blue accent
-- **Feature Colors**: Teal and Purple variants for UI elements
-
-### Typography
-
-- **Font Family**: Geist Sans (primary), Geist Mono (code)
-- **Responsive Text**: Fluid typography using `clamp()` for smooth scaling
-
-### Components
-
-- **Responsive**: Mobile-first design with Tailwind CSS
-- **Accessible**: Semantic HTML and proper ARIA labels
-- **Reusable**: Modular component architecture
 
 ## 🚀 Available Scripts
 
@@ -123,58 +105,6 @@ src/
 | `npm run check`        | Run both linting and format checks  |
 | `npm run fix`          | Fix both ESLint and Prettier issues |
 
-## 🛠️ Technologies Used
-
-- **Framework**: [Next.js 15](https://nextjs.org/) with App Router
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Fonts**: [Geist](https://vercel.com/font) (Sans & Mono)
-- **Image Optimization**: Next.js Image component
-
-## 📱 Responsive Breakpoints
-
-- **xs**: 475px (Extra small devices)
-- **sm**: 640px (Small devices)
-- **md**: 820px (Medium devices)
-- **lg**: 1024px (Large devices)
-- **xl**: 1280px (Extra large devices)
-- **2xl**: 1536px (2X large devices)
-
-## 🎯 Key Features
-
-### Home Page Sections
-
-1. **Hero Section**: Main landing area with call-to-action
-2. **Features Section**: Key business features with icons
-3. **Product Showcase**: Dealership management and car financing apps
-4. **Why OneLot**: Five key benefits in card layout
-5. **Testimonials**: Customer feedback carousel
-6. **Stay Connected**: Social media integration
-7. **FAQ Section**: Frequently asked questions with accordion
-8. **Get Started**: Final call-to-action
-
-### Navigation
-
-- **Responsive Navbar**: Mobile hamburger menu, desktop navigation
-- **Footer**: Links, language selector, social media icons
-
-## 🔧 Development
-
-### Code Formatting
-
-- **Prettier**: Automatic code formatting on save
-- **ESLint**: Code linting with Prettier integration
-- **EditorConfig**: Consistent editor settings across team
-- **VS Code**: Configured for automatic formatting
-
-### Styling Guidelines
-
-- Use global color classes from `globals.css`
-- Follow mobile-first responsive design
-- Use semantic HTML elements
-- Maintain consistent spacing with Tailwind utilities
-
 ### Error Handling
 
 - Route-level error boundaries (`error.tsx`)
@@ -188,29 +118,3 @@ src/
 1. Push code to GitHub
 2. Connect repository to Vercel
 3. Deploy automatically
-
-### Other Platforms
-
-- **Netlify**: Connect GitHub repository
-- **AWS Amplify**: Deploy from Git
-- **Docker**: Use provided Dockerfile
-
-## 📄 License
-
-This project is proprietary software. All rights reserved.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Run tests and linting
-5. Submit a pull request
-
-## 📞 Support
-
-For support and questions, please contact the development team.
-
----
-
-**Built with ❤️ using Next.js and TypeScript**
